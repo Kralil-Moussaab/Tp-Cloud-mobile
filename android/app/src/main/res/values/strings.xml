@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">capacitor-tp-app</string>
-    <string name="title_activity_main">capacitor-tp-app</string>
+    <string name="app_name">tp-mobile</string>
+    <string name="title_activity_main">tp-mobile</string>
     <string name="package_name">com.example.app</string>
     <string name="custom_url_scheme">com.example.app</string>
 </resources>
